@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **marcbendixen/marcbendixen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +11,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ <img width="300" src="https://user-images.githubusercontent.com/82408272/142648806-afe1404c-0198-46e6-9e93-071f45998887.png" />
 -->
+
+<div align="center">
+  <h1>Hi 👋</h1>
+  <img width="200" src="https://user-images.githubusercontent.com/82408272/142650579-84aaf41f-e393-4320-8019-b8f81d33af4b.gif" />
+</div>
