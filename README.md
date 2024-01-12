@@ -1,6 +1,6 @@
 ### Hej 👋 I'm Marc Bendixen
 
-- 👨‍💻 Working as a Web Development Coach
+- 👨‍💻 Working as a __Web Development Coach__
 - 🌱 I'm currently learning more about __TypeScript__ and __Astro__
 
 #### 📫 Let's connect
