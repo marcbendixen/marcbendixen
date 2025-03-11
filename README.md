@@ -1,6 +1,6 @@
 ### Hej 👋 I'm Marc Bendixen
 
-👨‍💻 Working as a __Web Development Coach__
+👨‍💻 __Web Developer__ living near Hamburg.
 
 #### 📫 Let's connect
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marc-bendixen/)](https://www.linkedin.com/in/marc-bendixen/)
